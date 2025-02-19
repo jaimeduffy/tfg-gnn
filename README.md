@@ -1,1 +1,5 @@
 # Graph Neural Networks: Deep Learning para entornos no estructurados
+
+Los primeros modelos de Deep Learning, dentro de la Inteligencia Artificial (IA), estaban adaptados a datos estructurados en una dimensión (frases de palabras, secuencias de letras), dos dimensiones (imágenes en escala de grises), tres dimensiones (imágenes en color), cuatro dimensiones (video en color), etc… pero esta necesidad de fijar la información en una estructura reticular impedía aplicar estos modelos en espacios más generales.
+Recientemente, se han desarrollado una nueva generación de modelos cuya entrada puede tener la estructura de un grafo general https://www.cs.mcgill.ca/~wlh/grl_book/   Estos nuevos modelos, las Graph Neural Networks,  son capaces de aplicar métodos de IA a cualquier problema que admita representación como un grafo (espacios de estados, redes sociales, internet…). 
+En este TFG se espera que el alumno profundice en estos modelos, que combinan IA con teoría de grafos, desde un punto de vista teórico y estudie sus posibilidades de aplicación en el futuro.
